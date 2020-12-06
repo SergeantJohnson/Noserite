@@ -1,0 +1,36 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#copy_right_footer{
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    color: white;
+    position: fixed;
+    bottom:0;
+    width:100%;
+}
+
+
+
+body{
+    background-image: url(palette.jpg);
+}
+
+#myCanvas{
+    height:500;
+    width:500;
+    background-color: azure;
+    border: ridge yellowgreen 5px;
+}
+
+h1{
+   line-height: 3;
+   font-size: 23px;
+   margin-top:0;
+   width:100%;
+}
