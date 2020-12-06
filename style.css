@@ -18,19 +18,25 @@
 
 
 body{
-    background-image: url(palette.jpg);
+    background-color: slateblue;
 }
 
 #myCanvas{
-    height:500;
-    width:500;
+    height:300;
+    width:300;
     background-color: azure;
     border: ridge yellowgreen 5px;
 }
 
-h1{
-   line-height: 3;
-   font-size: 23px;
-   margin-top:0;
-   width:100%;
+
+#Title{
+    font-size: 30px;
+    margin-top:0;
+    width:100%;
+    background-color: rgb(179, 64, 224);
+    border: rgb(197, 238, 130) ridge 5px;
+}
+
+p{
+    font-size: 18px;
 }
